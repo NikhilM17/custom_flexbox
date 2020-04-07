@@ -1,0 +1,4 @@
+rootProject.name='SelectCategory'
+include ':app'
+include ':app:flexbox_recycelerview'
+include ':custom_flexbox'
